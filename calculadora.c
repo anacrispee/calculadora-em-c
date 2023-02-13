@@ -1,6 +1,3 @@
-//Aluna: Ana cristina Pereira, graduanda em Téc. ADS na UNIVALI Itajaí/SC.
-//O seguinte código foi desenvolvido na IDE DevC++ e testada também no software VisualStudio com MingW.
-
 #include <stdio.h>
 //inclusão da biblioteca de entrada e saída de dados.
 #include <locale.h>
